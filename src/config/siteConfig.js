@@ -12,7 +12,7 @@ export const siteConfig = {
 
   contact: {
     phone: '+256 700 000 000',
-    whatsapp: '256700000000',
+    whatsapp: '256776439184',
     email: 'hello@nexora.ug',
   },
 
