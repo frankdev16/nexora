@@ -11,7 +11,7 @@ export const siteConfig = {
   locale: 'en-UG',
 
   contact: {
-    phone: '+256 700 000 000',
+    phone: '+256 776 439 184',
     whatsapp: '256776439184',
     email: 'hello@nexora.ug',
   },
