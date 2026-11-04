@@ -51,7 +51,7 @@ function Header() {
         </button>
 
         <Link to="/" className="brand-logo" onClick={closeMenu}>
-          NEXORA<span>.</span>
+          tech solutions Uganda <span>.</span>
         </Link>
 
         <nav className={`main-navigation ${menuOpen ? 'menu-open' : ''}`}>
